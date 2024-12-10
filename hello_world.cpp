@@ -1,6 +1,6 @@
 #include<iostream>
 int main(int argc, char* argv[])
 {
-    printf("hello world!");
+    printf("new hello world! ");
     return 0;
 }
